@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryacaesars&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
